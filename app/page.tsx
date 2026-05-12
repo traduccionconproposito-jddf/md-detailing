@@ -215,7 +215,7 @@ export default function Home() {
                 {phone}
               </a>
               <a
-                href="#"
+                href="https://www.instagram.com/cardetailer_roxboro/" target="_blank" rel="noopener noreferrer"
                 aria-label="https://www.instagram.com/cardetailer_roxboro/ link coming soon"
                 className="rounded-xl border border-signalBlue/70 bg-signalBlue/12 px-6 py-5 text-center text-lg font-black text-white transition hover:-translate-y-1 hover:bg-signalBlue/22"
               >
