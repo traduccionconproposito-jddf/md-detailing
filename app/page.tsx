@@ -216,7 +216,7 @@ export default function Home() {
               </a>
               <a
                 href="#"
-                aria-label="Instagram link coming soon"
+                aria-label="https://www.instagram.com/cardetailer_roxboro/ link coming soon"
                 className="rounded-xl border border-signalBlue/70 bg-signalBlue/12 px-6 py-5 text-center text-lg font-black text-white transition hover:-translate-y-1 hover:bg-signalBlue/22"
               >
                 Instagram
