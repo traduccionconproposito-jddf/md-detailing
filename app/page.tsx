@@ -222,7 +222,7 @@ export default function Home() {
                 Instagram
               </a>
               <p className="text-center text-xs uppercase tracking-[0.2em] text-ice/45">
-                Instagram link coming soon
+                Follow us on Instagram
               </p>
             </div>
           </div>
